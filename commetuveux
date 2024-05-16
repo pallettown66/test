@@ -1,0 +1,5 @@
+contenu
+
+git config --global user.name "Ray Abb"
+
+git config --global user.email "rayan.abboud@proton.me"
